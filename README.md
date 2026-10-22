@@ -21,3 +21,8 @@ https://github.com/Allevon412/BreadManModuleStomping
 https://github.com/Maldev-Academy/MaldevAcademyLdr.1  
 https://github.com/am0nsec/HellsGate  
 https://github.com/TheEnergyStory/PatchlessEtwAndAmsiBypass
+
+### Salsa20 Encryption
+
+https://github.com/libtom/libtomcrypt/tree/develop  
+https://github.com/libtom/libtomcrypt/tree/develop/src/stream/salsa20
